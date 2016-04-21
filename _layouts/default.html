@@ -7,7 +7,7 @@
 
 <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
 
-<title>{{ page.title }}</title>
+<title>{{ page.title }} — {{ page.subtitle1 }}, {{ page.subtitle2 }}</title>
 
 </head>
 
@@ -15,7 +15,9 @@
 
 <div id="header_wrap" class="outer">
 <header class="inner">
-<h1 id="title">{{ page.title }}</h1>
+<h1 id="title" class="header_text">{{ page.title }}</h1>
+<h3 class="header_text">{{ page.subtitle1 }}</h3>
+<em><h3 class="header_text">{{ page.subtitle2 }}</h3></em>
 </header>
 </div>
 

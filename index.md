@@ -73,8 +73,8 @@ Solicited and unsolicited surveys of the state of the art of topics central to t
 
 ### Editorial Board
 
-- Michael Krauthammer, Yale
-- Frank van Harmelen, VU Amsterdam
+- Michael Krauthammer, Yale University
+- Frank van Harmelen, VU University Amsterdam
 - Steve Pettifer, Manchester
 - Mark Wilkinson, UPM Madrid
 - Tim Clark, Harvard
@@ -82,12 +82,12 @@ Solicited and unsolicited surveys of the state of the art of topics central to t
 - Ruben Verborgh, Ghent University
 - Yolanda Gil, University of Southern California
 - Karin Verspoor, University of Melbourne
-- Michael Mäs, Univclarkersity of Groningen
+- Michael Mäs, University of Groningen
 - Thomas Chadefaux, Trinity College Dublin
 - Olivia Woolley Meza, ETH Zurich
 - Izabela Moise, ETH Zurich
 - Evangelos Pournaras, ETH Zurich
-- Alison Callahan, Stanford
+- Alison Callahan, Stanford University
 - Victor de Boer, VU University Amsterdam
 - Christine Chichester, Nestle Institute of Health Sciences
 - Brian Davis, NUI Galway
@@ -105,5 +105,5 @@ Solicited and unsolicited surveys of the state of the art of topics central to t
 - Matjaz Perc, University of Maribor
 - Robert Hoehndorf, KAUST
 - Toshiaki Katayama, Database Center for Life Science
-- Manisha Desai, Stanford
+- Manisha Desai, Stanford University
 

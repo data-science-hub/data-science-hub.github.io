@@ -11,6 +11,8 @@ _(The information below is preliminary and subject to change.)_
 
 The journal Data Science is an interdisciplinary journal that aims to publish novel and effective methods on using scientific data in a principled, well-defined, and reproducible fashion, concrete tools that are based on these methods, and applications thereof. The ultimate goal is to unleash the power of scientific data to deepen our understanding of physical, biological, and digital systems, gain insight into human social and economic behaviour, and design new solutions for the future. The rising importance of scientific data, both big and small, brings with it a wealth of challenges to combine structured, but often siloed data with messy, incomplete, and unstructured data from text, audio, visual content such as sensor and weblog data. New methods to extract, transport, pool, refine, store, analyze, and visualize data are needed to unleash their power while simultaneously making tools and workflows easier to use by the public at large. The journal invites contributions ranging from theoretical and foundational research, platforms, methods, applications, and tools in all areas. We welcome papers which add a social, geographical, and temporal dimension to Data Science research, as well as application-oriented papers that prepare and use data in discovery research.
 
+- [Official page by publisher](http://www.iospress.nl/journal/data-science/)
+
 
 ### Core Topics
 
@@ -42,17 +44,14 @@ An important goal of the journal is to promote an environment to produce and sha
 ##### Rapid, Open, Transparent, and Attributed Reviews
 The Data Science journal relies on an open and transparent review process. Submitted manuscripts are posted on the journal's website and are publicly available. In addition to solicited reviews selected by members of the editorial board, public reviews and comments are welcome by any researcher and can be uploaded using the journal website. All reviews and responses from the authors are posted on the journal homepage. All involved reviewers and editors will be acknowledged in the final printed version. While we strongly encourage reviewers to participate in the open and transparent review process it is still possible to submit anonymous reviews. Editors, non-anonymous reviewers will be included in all published articles. The journal will aim to complete reviews within 2-4 weeks of submission.
 
+##### Open Access
+The journal is open access. The article processing charges are waived for the first year. The exact amount of the charges for after the first year is to be determined, but they will be moderate in comparison.
+
 #### Further Features
 - Submitted papers have to be published as a pre-print before reviewing, so reviewers and everybody else are free to share submitted papers
 - Reviews are open and licensed under CC-BY (and non-anonymous by default)
 - All reviews are made public, also those for rejected papers
 - Everybody (authors, co-authors, editorial board members, and reviewers) needs an ORCID identifier
-
-##### Reviewer Forum
-The journal will provide editor and reviewer profiles and metrics (links to ORCID, Google Scholar, etc.).
-
-##### Open Access
-The journal will be open access.
 
 
 ### Submissions

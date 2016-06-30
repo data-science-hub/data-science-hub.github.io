@@ -45,10 +45,11 @@ An important goal of the journal is to promote an environment to produce and sha
 The Data Science journal relies on an open and transparent review process. Submitted manuscripts are posted on the journal's website and are publicly available. In addition to solicited reviews selected by members of the editorial board, public reviews and comments are welcome by any researcher and can be uploaded using the journal website. All reviews and responses from the authors are posted on the journal homepage. All involved reviewers and editors will be acknowledged in the final printed version. While we strongly encourage reviewers to participate in the open and transparent review process it is still possible to submit anonymous reviews. Editors, non-anonymous reviewers will be included in all published articles. The journal will aim to complete reviews within 2-4 weeks of submission.
 
 ##### Open Access
-The journal is open access. The article processing charges are waived for the first year. The exact amount of the charges for after the first year is to be determined, but they will be moderate in comparison.
+The journal is open access. The article processing charges are waived for the first year. The exact amount of the charges after the first year is to be determined, but they will be moderate in comparison.
 
 #### Further Features
 - Submitted papers have to be published as a pre-print before reviewing, so reviewers and everybody else are free to share submitted papers
+- Authors are encouraged to submit their papers in HTML format
 - Reviews are open and licensed under CC-BY (and non-anonymous by default)
 - All reviews are made public, also those for rejected papers
 - Everybody (authors, co-authors, editorial board members, and reviewers) needs an ORCID identifier
@@ -74,7 +75,7 @@ Solicited and unsolicited surveys of the state of the art of topics central to t
 
 ### Editors-in-Chief
 
-- Michel Dumontier, Stanford
+- Michel Dumontier, Stanford University
 - Tobias Kuhn, VU University Amsterdam
 
 

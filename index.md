@@ -47,7 +47,7 @@ The Data Science journal relies on an open and transparent review process. Submi
 ##### Open Access
 The journal is open access. The article processing charges are waived for the first year. The exact amount of the charges after the first year is to be determined, but they will be moderate in comparison.
 
-#### Further Features
+##### Further Features
 - Submitted papers have to be published as a pre-print before reviewing, so reviewers and everybody else are free to share submitted papers
 - Authors are encouraged to submit their papers in HTML format
 - Reviews are open and licensed under CC-BY (and non-anonymous by default)

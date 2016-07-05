@@ -81,37 +81,37 @@ Solicited and unsolicited surveys of the state of the art of topics central to t
 
 ### Editorial Board
 
-- Michael Krauthammer, Yale University
-- Frank van Harmelen, VU University Amsterdam
-- Steve Pettifer, Manchester
-- Mark Wilkinson, UPM Madrid
-- Tim Clark, Harvard
-- Jodi Schneider, University of Pittsburgh
-- Ruben Verborgh, Ghent University
-- Yolanda Gil, University of Southern California
-- Karin Verspoor, University of Melbourne
-- Michael Mäs, University of Groningen
-- Thomas Chadefaux, Trinity College Dublin
-- Olivia Woolley Meza, ETH Zurich
-- Izabela Moise, ETH Zurich
-- Evangelos Pournaras, ETH Zurich
-- Alison Callahan, Stanford University
 - Victor de Boer, VU University Amsterdam
+- Alison Callahan, Stanford University
+- Thomas Chadefaux, Trinity College Dublin
 - Christine Chichester, Nestle Institute of Health Sciences
+- Tim Clark, Harvard
+- Oscar Corcho, Universidad Politécnica de Madrid
 - Brian Davis, NUI Galway
+- Manisha Desai, Stanford University
 - Emilio Ferrara, University of Southern California
 - Pascale Gaudet, Swiss Institute of Bioinformatics
-- Rinke Hoekstra, VU University Amsterdam
-- Thomas Maillart, UC Berkeley
-- Richard Mann, Leeds University
-- James McCusker, RPI
-- Pablo Mendes, IBM
-- Silvio Peroni, University of Bologna
-- Núria Queralt Rosinach, The Scripps Research Institute
 - Olivier Gevaert, Stanford University
-- Oscar Corcho, Universidad Politécnica de Madrid
-- Matjaz Perc, University of Maribor
+- Yolanda Gil, University of Southern California
+- Frank van Harmelen, VU University Amsterdam
+- Rinke Hoekstra, VU University Amsterdam
 - Robert Hoehndorf, KAUST
 - Toshiaki Katayama, Database Center for Life Science
-- Manisha Desai, Stanford University
+- Michael Krauthammer, Yale University
+- Thomas Maillart, UC Berkeley
+- Richard Mann, Leeds University
+- Michael Mäs, University of Groningen
+- James McCusker, RPI
+- Pablo Mendes, IBM
+- Izabela Moise, ETH Zurich
+- Matjaz Perc, University of Maribor
+- Silvio Peroni, University of Bologna
+- Steve Pettifer, Manchester
+- Evangelos Pournaras, ETH Zurich
+- Núria Queralt Rosinach, The Scripps Research Institute
+- Jodi Schneider, University of Pittsburgh
+- Ruben Verborgh, Ghent University
+- Karin Verspoor, University of Melbourne
+- Mark Wilkinson, UPM Madrid
+- Olivia Woolley Meza, ETH Zurich
 

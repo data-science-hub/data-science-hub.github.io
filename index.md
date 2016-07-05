@@ -106,8 +106,8 @@ Solicited and unsolicited surveys of the state of the art of topics central to t
 - Richard Mann, Leeds University
 - James McCusker, RPI
 - Pablo Mendes, IBM
-- Silvio Peroni, Bologna
-- Núria Queralt Rosinach, Pompeu Fabra University
+- Silvio Peroni, University of Bologna
+- Núria Queralt Rosinach, The Scripps Research Institute
 - Olivier Gevaert, Stanford University
 - Oscar Corcho, Universidad Politécnica de Madrid
 - Matjaz Perc, University of Maribor

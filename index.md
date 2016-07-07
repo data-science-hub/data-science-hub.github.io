@@ -96,6 +96,7 @@ Solicited and unsolicited surveys of the state of the art of topics central to t
 - Frank van Harmelen, VU University Amsterdam
 - Rinke Hoekstra, VU University Amsterdam
 - Robert Hoehndorf, KAUST
+- Lawrence Hunter, University of Colorado Denver
 - Toshiaki Katayama, Database Center for Life Science
 - Michael Krauthammer, Yale University
 - Thomas Maillart, UC Berkeley

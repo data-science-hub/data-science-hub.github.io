@@ -7,7 +7,7 @@
 
 <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
 
-<title>{{ page.title }} — {{ page.subtitle1 }}, {{ page.subtitle2 }}</title>
+<title>Data Science — Methods, Infrastructure, and Applications: {{ page.title }}</title>
 
 </head>
 
@@ -15,11 +15,32 @@
 
 <div id="header_wrap" class="outer">
 <header class="inner">
-<h1 id="title" class="header_text">{{ page.title }}</h1>
-<h3 class="header_text">{{ page.subtitle1 }}</h3>
-<em><h3 class="header_text">{{ page.subtitle2 }}</h3></em>
+<h1 id="title" class="header_text">Data Science</h1>
+<h3 class="header_text">Methods, Infrastructure, and Applications</h3>
+<em><h3 class="header_text">an IOS Press journal</h3></em>
 </header>
 </div>
+
+<!--<nav class="main-nav">
+  <ul>
+    <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+    <li><a href="/foo.html" {% if page.url == "/foo.html" %}class="active"{% endif %}>Foo</a></li>
+  </ul>
+</nav>-->
+<nav class="main-nav">
+  <ul>
+    {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+    {% for p in navigation_pages %}
+      {% if p.navigation_weight %}
+        <li>
+          <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
+            {{ p.title }}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
 
 <div id="main_content_wrap" class="outer">
 <section id="main_content" class="inner">

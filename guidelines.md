@@ -41,6 +41,10 @@ Alternatively, these [guidelines for OpenOffice](https://rawgit.com/essepuntato/
 
 We prefer HTML, but we also accept submissions in Word or LaTeX. In that case, please use the [official templates by IOS Press](http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/).
 
+##### Data
+
+All relevant data that were used or produced for conducting the work presented in a paper must be made [FAIR](http://www.dtls.nl/fair-data/) prior to submission. In particular, data have to be made openly accessible and freely reusable via established institutions and standards, unless privacy or confidentiality concerns forbid such a publication. In any case, metadata have to be made publicly accessible and visible.
+
 ##### More
 
 We are still working on these guidelines. More information will follow soon.
@@ -91,7 +95,7 @@ Data and software used are versioned
 
 ##### FAIRness
 
-Have the authors made efforts to make their resources maximally FAIR - Findable, Accessible, Interoperable and Reusable - in line with the published FAIR principles?
+Have the authors made efforts to make their resources maximally FAIR - Findable, Accessible, Interoperable and Reusable - in line with the [FAIR](http://www.dtls.nl/fair-data/) principles?
 
 ##### Suggested improvements
 

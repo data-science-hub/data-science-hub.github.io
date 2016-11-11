@@ -58,6 +58,8 @@ We are still working on these guidelines. More information will follow soon.
 
 ### Guidelines for Reviewers
 
+In order to facilitate a speedy reviewing process, reviewers are requested to submit their assessment within 10 days.
+
 Reviews consist of the following parts described below.
 
 

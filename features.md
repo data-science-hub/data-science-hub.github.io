@@ -8,21 +8,35 @@ _(The information below is preliminary and subject to change. The properties and
 
 ### Features
 
-##### Semantic Publishing
-Semantic publishing has been defined as anything that enhances the meaning of a published journal article, facilitates its automated discovery, enables its linking to semantically related articles, provides access to data within the article in actionable form, or facilitates integration of data between papers. Towards the goal of genuine semantic publishing, where a work may be published with its content and metadata represented in a machine-interpretable semantic notation, this journal will work with a global set of partners to develop standardized methods to ensure that our publications can be seen as a machine-accessible store of knowledge.
-
-##### Data Standards
-An important goal of the journal is to promote an environment to produce and share annotated data to the wider research community. The development and use of data and metadata standards are critical for achieving this goal. Authors should ensure that any data used or produced in the study is represented with community-based data formats and metadata standards. 
-
-##### Rapid, Open, Transparent, and Attributed Reviews
-The Data Science journal relies on an open and transparent review process. Submitted manuscripts are posted on the journal's website and are publicly available. In addition to solicited reviews selected by members of the editorial board, public reviews and comments are welcome by any researcher and can be uploaded using the journal website. All reviews and responses from the authors are posted on the journal homepage. While we strongly encourage reviewers to participate in the open and transparent review process it is still possible to submit anonymous reviews. Editors and non-anonymous reviewers will be included in all published articles. The journal will aim to complete reviews within 2-4 weeks of submission.
-
 ##### Open Access
+
 The journal is open access. The article processing charges are waived for the first year. The exact amount of the charges after the first year is to be determined, but they will be moderate in comparison.
 
-##### Further Features
-- Submitted papers have to be published as a pre-print before reviewing, so reviewers and everybody else are free to share submitted papers
-- Authors are encouraged to submit their papers in HTML format
-- Reviews are open and licensed under CC-BY (and non-anonymous by default)
-- All reviews are made public, also those for rejected papers
-- Everybody (authors, co-authors, editorial board members, and reviewers) needs an ORCID identifier
+##### Speedy Reviewing
+
+We are committed to avoid wasting time during the reviewing period. You will receive your first decision within weeks rather than months. We ask reviewers to complete their review within 10 days.
+
+##### Open and Attributed Reviews
+
+Reviews are non-anonymous by default (but reviewers can request to stay anonymous). All reviews are made openly available under [CC-BY](https://creativecommons.org/licenses/by/4.0/) licenses after a decision has been made for the submission (independent of whether the decision was accept or reject). In addition to solicited reviews, everybody is welcome to submit additional reviews and comments for a papers that are under review. Editors and non-anonymous reviewers will be mentioned in the published articles.
+
+##### Pre-Prints
+
+All submitted papers are made available as pre-prints before the reviewing starts, so reviewers and everybody else are free to share submitted papers. Pre-prints will remain available after reviewing, independent of whether the paper was accepted or rejected for publication.
+
+##### Data Standards
+
+We want to promote an environment where annotated data is produced and shared with the wider research community. We therefore require authors to ensure that any data used or produced in their study are represented with community-based data formats and metadata standards. These data should furthermore be made openly available and freely reusable, unless privacy or confidentiality concerns apply.
+
+##### Semantic Publishing
+
+We encourage authors to provide (meta)data with formal semantics, as a step towards the vision of semantic publishing to integrate, combine, organize, and reuse scientific knowledge. We plan to experiment with different such approaches, and we will announce more details soon.
+
+##### HTML
+
+We encourage authors to submit their papers in HTML (but we accept Word and LaTeX submissions too).
+
+##### ORCID
+
+Everybody needs to provide his/her [ORCID](http://orcid.org/) identifier. This applies to authors, co-authors, editorial board members, and reviewers. No excuses.
+

@@ -34,7 +34,8 @@ We encourage authors to submit their papers in HTML. There are various tools and
 
 
 The *Research Articles in Simplified HTML* (*RASH*) ([doc](https://rawgit.com/essepuntato/rash/master/documentation/index.html), [paper](https://rawgit.com/essepuntato/rash/master/papers/rash-demo-iswc2015.html)) is a markup language that restricts the use of HTML elements to only 32 elements for writing academic research articles. It is possible to includes also RDFa annotations within any element of the language and other RDF statements in Turtle, JSON-LD and RDF/XML format by using the appropriate tag `script`.
-[Guidelines for OpenOffice](https://rawgit.com/essepuntato/rash/master/documentation/rash-in-odt.odt) have been developed so as to write a scholarly paper by using the basic features available in OpenOffice Writer, in a way that it can be converted into RASH by means of the [*RASH Online Conversion Service* (*ROCS*)](http://dasplab.cs.unibo.it/rocs) ([src](https://github.com/essepuntato/rash/tree/master/tools/rocs), [paper](https://rawgit.com/essepuntato/rash/master/papers/rash-poster-www2016.html)).
+Authors can start from this [generic template](https://github.com/essepuntato/rash/blob/master/template.html), which can be also found in the convenient [ZIP archive](https://rawgit.com/essepuntato/rash/master/rash.zip) containing the whole RASH package.
+Alternatively, these [guidelines for OpenOffice](https://rawgit.com/essepuntato/rash/master/documentation/rash-in-odt.odt) explain how to write a scholarly paper by using the basic features available in OpenOffice Writer, in a way that it can be converted into RASH by means of the [*RASH Online Conversion Service* (*ROCS*)](http://dasplab.cs.unibo.it/rocs) ([src](https://github.com/essepuntato/rash/tree/master/tools/rocs), [paper](https://rawgit.com/essepuntato/rash/master/papers/rash-poster-www2016.html)).
 
 ##### Papers in Word or LaTeX
 

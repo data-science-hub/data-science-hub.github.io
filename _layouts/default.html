@@ -21,12 +21,6 @@
 </header>
 </div>
 
-<!--<nav class="main-nav">
-  <ul>
-    <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
-    <li><a href="/foo.html" {% if page.url == "/foo.html" %}class="active"{% endif %}>Foo</a></li>
-  </ul>
-</nav>-->
 <nav class="main-nav">
   <ul>
     {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}

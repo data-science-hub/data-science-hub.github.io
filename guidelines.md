@@ -9,7 +9,40 @@ _(The information below is preliminary and subject to change. The properties and
 
 ### Guidelines for Authors
 
-_(To be defined.)_
+Authors should closely follow the guidelines below before submitting a manuscript.
+
+##### Language
+
+All papers have to be written in English.
+
+##### Paper Length
+
+The following length limits apply for the different paper types:
+
+- Research papers: 12 000 words
+- Position papers: 8 000 words
+- Survey papers: 16 000 words
+- Reports: 5 000 words
+
+Note that these word counts are not targets but maximum values. Papers may be significantly shorter.
+
+These word counts include the abstract, tables, and figure and table captions. Author lists and references, however, are not counted. Each figure counts for an additional 300 words.
+
+##### Papers in HTML
+
+We encourage authors to submit their papers in HTML. There are various tools and templates for that, such as [RASH](https://github.com/essepuntato/rash/) and [Dokieli](https://dokie.li/).
+
+
+The *Research Articles in Simplified HTML* (*RASH*) ([doc](https://rawgit.com/essepuntato/rash/master/documentation/index.html), [paper](https://rawgit.com/essepuntato/rash/master/papers/rash-demo-iswc2015.html)) is a markup language that restricts the use of HTML elements to only 32 elements for writing academic research articles. It is possible to includes also RDFa annotations within any element of the language and other RDF statements in Turtle, JSON-LD and RDF/XML format by using the appropriate tag `script`.
+[Guidelines for OpenOffice](https://rawgit.com/essepuntato/rash/master/documentation/rash-in-odt.odt) have been developed so as to write a scholarly paper by using the basic features available in OpenOffice Writer, in a way that it can be converted into RASH by means of the [*RASH Online Conversion Service* (*ROCS*)](http://dasplab.cs.unibo.it/rocs) ([src](https://github.com/essepuntato/rash/tree/master/tools/rocs), [paper](https://rawgit.com/essepuntato/rash/master/papers/rash-poster-www2016.html)).
+
+##### Papers in Word or LaTeX
+
+We prefer HTML, but we also accept submissions in Word or LaTeX. In that case, please use the [official templates by IOS Press](http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/).
+
+##### More
+
+We are still working on these guidelines. More information will follow soon.
 
 
 ### Guidelines for Reviewers
@@ -18,6 +51,8 @@ Reviews consist of the following parts described below.
 
 
 ##### Overall recommendation
+
+The review of a paper should lead to one of the following overall recommendations:
 
 - **Accept.** The article is accepted as is, or minor presentation, grammatical, or spelling problems raised in review must be addressed by the authors and verified by the editorial and publication team.
 - **Undecided.** Authors must revise their manuscript to address specific concerns before a final decision is reached. A revised manuscript will be subject to second round of peer review in which the decision will be either Accept or Reject and no further review will be performed.

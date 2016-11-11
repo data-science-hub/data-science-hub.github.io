@@ -72,36 +72,45 @@ The review of a paper should lead to one of the following overall recommendation
 
 ##### Summary
 
-Briefly summarize key problems, approach, results, and claims of the article. 
+Reviewers should briefly summarize key problems, approach, results, and claims of the article. 
 
 
 ##### Significance
 
-Is the significance of the problem area clearly stated and compelling? In other words, what evidence is provided that the problem area is of importance? Who will be interested in reading the paper, and why? Is the paper likely to be one of the ten most significant papers published in the discipline this year?
+- Is the significance of the problem area clearly stated and compelling?
+- In other words, what evidence is provided that the problem area is of importance?
+- Who will be interested in reading the paper?
+- Is the paper likely to be one of the ten most significant papers published in the discipline this year?
 
 
 ##### Novelty
 
-Are the claims appropriately discussed in the context of previous literature? Identify published work that challenges the claimed novelty. 
+- Are the claims appropriately discussed in the context of previous literature?
+- Is there published work that challenges the claimed novelty?
 
 
 ##### Clarity
 
-Is the manuscript well written? Does it use language that is undefined or unfamiliar to the reviewer? Do the figure or table legends clearly communicate the nature and contents of the figure or tables? 
-Identify awkward phrases, as well as spelling and grammatical errors.
+- Is the manuscript well written?
+- Does it use language that is undefined or unfamiliar to the reviewer?
+- Do the figure or table legends clearly communicate the nature and contents of the figure or tables?
+- Are there awkward phrases or errors with respect to spelling or grammar?
 
 ##### Soundness
 
-Is the approach valid? Are the use of statistics and treatment of uncertainties correctly handled? Are there any aspects of the approach that could compromise the integrity of the study?
+- Is the approach valid? Are the use of statistics and treatment of uncertainties correctly handled?
+- Are there any aspects of the approach that could compromise the integrity of the study?
 
 ##### Reproducibility
 
-Could the work be reasonably reproduced by similarly qualified individual or group? Are the resources used in the study available to others to replicate their findings? Are the data and software openly available, or is there an appropriate rationale for why they cannot be made available (such as privacy issues)? If the data or software are not directly available, is there a clear mechanism for obtaining these? Do the data or software reuse standards? 
-Data and software used are versioned
+- Could the work be reasonably reproduced by similarly qualified individual or group?
+- Are the resources used in the study available to others to replicate their findings?
+- Are the data and software openly available, or is there an appropriate rationale for why they cannot be made available (such as privacy issues)? If the data or software are not directly available, is there a clear mechanism for obtaining these? Do the data or software reuse standards?
+- Are data and software versions provided for the used resources?
 
 ##### FAIRness
 
-Have the authors made efforts to make their resources maximally FAIR - Findable, Accessible, Interoperable and Reusable - in line with the [FAIR](http://www.dtls.nl/fair-data/) principles?
+- Have the authors made efforts to make their resources maximally FAIR - Findable, Accessible, Interoperable and Reusable - in line with the [FAIR](http://www.dtls.nl/fair-data/) principles?
 
 ##### Suggested improvements
 

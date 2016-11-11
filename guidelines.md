@@ -53,9 +53,9 @@ We prefer HTML, but we also accept submissions in Word or LaTeX. In that case, p
 
 All relevant data that were used or produced for conducting the work presented in a paper must be made [FAIR](http://www.dtls.nl/fair-data/) prior to submission. In particular, data have to be made openly accessible and freely reusable via established institutions and standards, unless privacy or confidentiality concerns forbid such a publication. In any case, metadata have to be made publicly accessible and visible.
 
-##### More
+##### Evaluation Criteria
 
-We are still working on these guidelines. More information will follow soon.
+See the reviewing guidelines below for the specific criteria according to which submitted papers are evaluated.
 
 
 ### Guidelines for Reviewers
@@ -102,14 +102,17 @@ Reviewers should briefly summarize key problems, approach, results, and claims o
 
 ##### Soundness
 
-- Is the approach valid? Are the use of statistics and treatment of uncertainties correctly handled?
+- Is the approach valid?
+- Are the use of statistics and treatment of uncertainties correctly handled?
 - Are there any aspects of the approach that could compromise the integrity of the study?
 
 ##### Reproducibility
 
 - Could the work be reasonably reproduced by similarly qualified individual or group?
 - Are the resources used in the study available to others to replicate their findings?
-- Are the data and software openly available, or is there an appropriate rationale for why they cannot be made available (such as privacy issues)? If the data or software are not directly available, is there a clear mechanism for obtaining these? Do the data or software reuse standards?
+- Are the data and software openly available, or is there an appropriate rationale for why they cannot be made available (such as privacy issues)?
+- If the data or software are not directly available, is there a clear mechanism for obtaining these?
+- Do the data or software reuse standards?
 - Are data and software versions provided for the used resources?
 
 ##### FAIRness

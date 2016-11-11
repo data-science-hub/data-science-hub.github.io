@@ -37,6 +37,12 @@ The *Research Articles in Simplified HTML* (*RASH*) ([doc](https://rawgit.com/es
 Authors can start from this [generic template](https://github.com/essepuntato/rash/blob/master/template.html), which can be also found in the convenient [ZIP archive](https://rawgit.com/essepuntato/rash/master/rash.zip) containing the whole RASH package.
 Alternatively, these [guidelines for OpenOffice](https://rawgit.com/essepuntato/rash/master/documentation/rash-in-odt.odt) explain how to write a scholarly paper by using the basic features available in OpenOffice Writer, in a way that it can be converted into RASH by means of the [*RASH Online Conversion Service* (*ROCS*)](http://dasplab.cs.unibo.it/rocs) ([src](https://github.com/essepuntato/rash/tree/master/tools/rocs), [paper](https://rawgit.com/essepuntato/rash/master/papers/rash-poster-www2016.html)).
 
+##### Semantic Publishing
+
+This is optional, but we would like to encourage you to provide semantic (meta-)data with your scientific papers, but unfortunately no accepted standards, best practices, or nice tools exist for that yet. We are working to fix this. In the meantime, and if you are a bit experienced with RDF, we are very happy to receive your RDFa-enriched paper or a submission with separate RDF statements. We are also happy to help you with that, if you are not experienced with RDF.
+
+We hope to be able to provide more general and more user-friendly guidelines for semantic publishing in the near future.
+
 ##### Papers in Word or LaTeX
 
 We prefer HTML, but we also accept submissions in Word or LaTeX. In that case, please use the [official templates by IOS Press](http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/).

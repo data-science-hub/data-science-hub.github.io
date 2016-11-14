@@ -4,9 +4,6 @@ layout: default
 navigation_weight: 25
 ---
 
-_(The information below is preliminary and subject to change. The properties and features of this journal are being discussed [here](https://github.com/data-science-hub/data-science-hub.github.io/issues).)_
-
-
 ### Guidelines for Authors
 
 Authors should closely follow the guidelines below before submitting a manuscript.

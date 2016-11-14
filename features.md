@@ -4,8 +4,6 @@ layout: default
 navigation_weight: 10
 ---
 
-_(The information below is preliminary and subject to change. The properties and features of this journal are being discussed [here](https://github.com/data-science-hub/data-science-hub.github.io/issues).)_
-
 ### Features
 
 ##### Open Access

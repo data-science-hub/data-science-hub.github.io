@@ -39,15 +39,15 @@ Alternatively, these [guidelines for OpenOffice](https://rawgit.com/essepuntato/
 
 As a second alternative, [dokieli](https://github.com/linkeddata/dokieli) is a client-side editor for decentralized article publishing in HTML+RDFa, annotations and social interactions, compliant with the [Linked Research](https://linkedresearch.org/) initiative. There are a variety of [examples in the wild](https://github.com/linkeddata/dokieli/wiki#examples-in-the-wild), including the [LNCS](https://dokie.li/lncs-splnproc) and [ACM](https://dokie.li/acm-sigproc-sp) author guidelines as templates.
 
+##### Papers in Word or LaTeX
+
+We prefer HTML, but we also accept submissions in Word or LaTeX. In that case, please use the [official templates by IOS Press](http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/).
+
 ##### Semantic Publishing
 
 This is optional, but we would like to encourage you to provide semantic (meta-)data with your scientific papers, but unfortunately no accepted standards, best practices, or nice tools exist for that yet. We are working to fix this. In the meantime, and if you are a bit experienced with RDF, we are very happy to receive your RDFa-enriched paper or a submission with separate RDF statements. We are also happy to help you with that, if you are not experienced with RDF.
 
 We hope to be able to provide more general and more user-friendly guidelines for semantic publishing in the near future.
-
-##### Papers in Word or LaTeX
-
-We prefer HTML, but we also accept submissions in Word or LaTeX. In that case, please use the [official templates by IOS Press](http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/).
 
 ##### Data
 

@@ -18,18 +18,18 @@ The journal Data Science is an interdisciplinary journal that aims to publish no
 This journal focuses on methods, infrastructure, and applications around the following core topics:
 
 - scientific data mining, machine learning, and Big Data analytics
-- data management, network analysis, and scientific knowledge discovery
+- scientific data management, network analysis, and knowledge discovery
 - scholarly communication and (semantic) publishing
 - research data publication, indexing, quality, and discovery
-- data wrangling, integration, provenance
-- trend analysis, prediction, and visualization
-- crowdsourcing and collaboration
-- corroboration, validation, trust, and reproducibility
-- scalable computing, analysis, and learning
-- smart and semantic web services, executable workflows
-- analytics, intelligence, and real time decision making
+- data wrangling, integration, and provenance of scientific data
+- trend analysis, prediction, and visualization of research topics
+- crowdsourcing and collaboration in science
+- corroboration, validation, trust, and reproducibility of scientific results
+- scalable computing, analysis, and learning for Data Science
+- smart and semantic web services and executable scientific workflows
+- scientific analytics, intelligence, and real time decision making
 - socio-technical systems
-- social impacts of data science
+- social impacts of Data Science
 
 
 ### Editors-in-Chief

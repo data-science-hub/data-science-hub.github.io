@@ -20,7 +20,7 @@ Reviews are non-anonymous by default (but reviewers can request to stay anonymou
 
 ##### Pre-Prints
 
-All submitted papers are made available as pre-prints before the reviewing starts, so reviewers and everybody else are free to not just read but also share submitted papers. Pre-prints will remain available after reviewing, independent of whether the paper was accepted or rejected for publication.
+All submitted papers are made available as pre-prints before the reviewing starts, so reviewers and everybody else are free to not only read but also share submitted papers. Pre-prints will remain available after reviewing, independent of whether the paper was accepted or rejected for publication.
 
 ##### Data Standards
 

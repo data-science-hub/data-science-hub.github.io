@@ -8,7 +8,7 @@ navigation_weight: 10
 
 ##### Open Access
 
-The journal is open access. The article processing charges are waived for the first year. The exact amount of the charges after the first year is to be determined, but they will be moderate in comparison.
+The journal is open access. The article processing charges are waived for the first year. The exact amount of the charges after the first year is to be determined, but they will be moderate in comparison to other similar journals.
 
 ##### Speedy Reviewing
 
@@ -24,7 +24,7 @@ All submitted papers are made available as pre-prints before the reviewing start
 
 ##### Data Standards
 
-We want to promote an environment where annotated data is produced and shared with the wider research community. We therefore require authors to ensure that any data used or produced in their study are represented with community-based data formats and metadata standards. These data should furthermore be made openly available and freely reusable, unless privacy or confidentiality concerns apply.
+We want to promote an environment where annotated data is produced and shared with the wider research community. We therefore require authors to ensure that any data used or produced in their study are represented with community-based data formats and metadata standards. These data should furthermore be made openly available and freely reusable, unless privacy concerns apply.
 
 ##### Semantic Publishing
 

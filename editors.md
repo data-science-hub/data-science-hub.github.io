@@ -12,6 +12,7 @@ navigation_weight: 30
 
 ### Editorial Board
 
+- Tijl de Bie, Ghent University
 - Victor de Boer, VU University Amsterdam
 - Alison Callahan, Stanford University
 - Thomas Chadefaux, Trinity College Dublin

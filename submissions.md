@@ -11,7 +11,7 @@ We will be open for submissions soon (early 2017).
 
 ##### Research Papers
 
-We accept as main category research papers that report on original research. Results previously published at conferences or workshops may be submitted as extended versions. Research papers will be reviewed along the usual dimensions for research contributions which include originality, significance of the results, and quality of writing.
+We accept as main category research papers that report on original research. Results previously published at conferences or workshops may be submitted as extended versions.
 
 
 ##### Position Papers
@@ -21,15 +21,9 @@ We accept position papers presenting discussions and viewpoints around Data Scie
 
 ##### Survey Papers
 
-Solicited and unsolicited surveys of the state of the art of topics central to the journal's scope. Survey articles should have the potential to become well-known introductory and overview texts. These submissions will be reviewed along the following dimensions: (1) Suitability as introductory text, targeted at researchers, PhD students, or practitioners, to get started on the covered topic. (2) How comprehensive and how balanced is the presentation and coverage. (3) Readability and clarity of the presentation. (4) Importance of the covered material to the broader Data Science community.
+We also publish survey papers of the state of the art of topics central to the journal's scope. Survey articles should be comprehensive and balanced, and should have the potential to become well-known introductory and overview texts.
 
 
 ##### Reports
 
-We also publish reports with the expectation of high impact, including:
-
-- software, web services, APIs
-- datasets and databases
-- visualization widgets
-- meetings, hackathons, outreach activities
-- book reviews
+Finally, we also publish reports with the expectation of high impact. The topics of such reports can include software, platforms, APIs, datasets, standards, outreach activities, and book reviews.

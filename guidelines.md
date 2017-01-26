@@ -57,66 +57,61 @@ See the reviewing guidelines below for the specific criteria according to which 
 
 ### Guidelines for Reviewers
 
-In order to facilitate a speedy reviewing process, reviewers are requested to submit their assessment within 10 days.
-
-Reviews consist of the following parts described below.
+In order to facilitate a speedy reviewing process, reviewers are requested to submit their assessment within 10 days. Reviews consist of the parts described below.
 
 
 ##### Overall recommendation
 
-The review of a paper should lead to one of the following overall recommendations:
+The review of a paper should suggest one of the following overall recommendations:
 
-- **Accept.** The article is accepted as is, or minor presentation, grammatical, or spelling problems raised in review must be addressed by the authors and verified by the editorial and publication team.
+- **Accept.** The article is accepted as is, or only minor problems must be addressed by the authors that do not require another round of reviewing but can be verified by the editorial and publication team.
 - **Undecided.** Authors must revise their manuscript to address specific concerns before a final decision is reached. A revised manuscript will be subject to second round of peer review in which the decision will be either Accept or Reject and no further review will be performed.
 - **Reject.** The work cannot be published based on the lack of interest, lack of novelty, insufficient conceptual advance or major technical and/or interpretational problems.
 
 
-##### Summary
+##### Criteria
 
-Reviewers should briefly summarize key problems, approach, results, and claims of the article. 
+The review should evaluate the paper with respect to the following criteria.
+
+**Significance:**
+
+- Does the work address an important problem within the research fields covered by the journal?
+
+**Background:**
+
+- Is the work appropriately based on and connected to the relevant related work?
+
+**Novelty:**
+
+- _For research papers:_ Does the work provide new insights or new methods of a substantial kind?
+- _For position papers:_ Does the work provide a novel and potentially disruptive view on the given topic?
+- _For survey papers:_ Does the work provide an overview that is unique in its scope or structure for the given topic?
+
+**Technical quality:**
+
+- _For research papers:_ Are the methods adequate for the addressed problem, are they correctly and thoroughly applied, and are their results interpreted in a sound manner?
+- _For position papers:_ Is the advocated position supported by sound and thorough arguments?
+- _For survey papers:_ Is the topic covered in a comprehensive and well balanced manner, are the covered approaches accurately described and compared, and are they placed in a convincing common framework?
+
+**Presentation:**
+
+- Are the text, figures, and tables of the work accessible, pleasant to read, clearly structured, and free of major errors in grammar or style?
+
+**Length:**
+
+- Is the length of the manuscript appropriate for what it presents?
+
+**Data availability:**
+
+- Are all used and produced data are openly available in established data repositories (except for data where privacy concerns apply)?
 
 
-##### Significance
+##### Summary and Comments
 
-- Is the significance of the problem area clearly stated and compelling?
-- In other words, what evidence is provided that the problem area is of importance?
-- Who will be interested in reading the paper?
-- Is the paper likely to be one of the ten most significant papers published in the discipline this year?
+Finally, reviewers are asked to answer the following points:
 
-
-##### Novelty
-
-- Are the claims appropriately discussed in the context of previous literature?
-- Is there published work that challenges the claimed novelty?
-
-
-##### Clarity
-
-- Is the manuscript well written?
-- Does it use language that is undefined or unfamiliar to the reviewer?
-- Do the figure or table legends clearly communicate the nature and contents of the figure or tables?
-- Are there awkward phrases or errors with respect to spelling or grammar?
-
-##### Soundness
-
-- Is the approach valid?
-- Are the use of statistics and treatment of uncertainties correctly handled?
-- Are there any aspects of the approach that could compromise the integrity of the study?
-
-##### Reproducibility
-
-- Could the work be reasonably reproduced by similarly qualified individual or group?
-- Are the resources used in the study available to others to replicate their findings?
-- Are the data and software openly available, or is there an appropriate rationale for why they cannot be made available (such as privacy issues)?
-- If the data or software are not directly available, is there a clear mechanism for obtaining these?
-- Do the data or software reuse standards?
-- Are data and software versions provided for the used resources?
-
-##### FAIRness
-
-- Have the authors made efforts to make their resources maximally FAIR - Findable, Accessible, Interoperable and Reusable - in line with the [FAIR](http://www.dtls.nl/fair-data/) principles?
-
-##### Suggested improvements
-
-Reviewers are required to provide concrete suggestions as to how the authors can improve their work and directly address raised concerns. This can include new experiments, use of other datasets, comparison with other work, a different statistical evaluation, etc.
+- Summary of paper in a few sentences
+- Reasons to accept
+- Reasons to reject
+- Further comments (optional)
 

@@ -50,7 +50,7 @@ We hope to be able to provide more general and more user-friendly guidelines for
 
 ##### Data
 
-All relevant data that were used or produced for conducting the work presented in a paper must be made [FAIR](http://www.dtls.nl/fair-data/) and compliant with the [PLOS data availability guidelines](http://journals.plos.org/plosone/s/data-availability) prior to submission. See in particular the list of [recommended data repositories](http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories). (We might provide our own data availability guidelines in the future, but we borrow the excellent PLOS guidelines for now.) In a nutshell, data have to be made openly accessible and freely reusable via established institutions and standards, unless privacy or confidentiality concerns forbid such a publication. In any case, metadata have to be made publicly accessible and visible.
+All relevant data that were used or produced for conducting the work presented in a paper must be made [FAIR](http://www.dtls.nl/fair-data/) and compliant with the [PLOS data availability guidelines](http://journals.plos.org/plosone/s/data-availability) prior to submission. See in particular the list of [recommended data repositories](http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories). (We might provide our own data availability guidelines in the future, but we borrow the excellent PLOS guidelines for now.) In a nutshell, data have to be made openly accessible and freely reusable via established institutions and standards, unless privacy concerns forbid such a publication. In any case, metadata have to be made publicly accessible and visible.
 
 ##### Evaluation Criteria
 

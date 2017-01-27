@@ -21,7 +21,7 @@ The following length limits apply for the different paper types:
 - Survey papers: 16 000 words
 - Reports: 5 000 words
 
-Note that these word counts are not targets but maximum values. Papers may be significantly shorter.
+Note that these word counts are not targets but maximum values. Papers may be significantly shorter. Exceptions for longer papers are possible if well justified (contact the editors-in-chief before submitting papers that exceed the stated word limits).
 
 These word counts include the abstract, tables, and figure and table captions. Author lists and references, however, are not counted. Each figure counts for an additional 300 words.
 
@@ -50,7 +50,7 @@ We hope to be able to provide more general and more user-friendly guidelines for
 
 ##### Data
 
-All relevant data that were used or produced for conducting the work presented in a paper must be made [FAIR](http://www.dtls.nl/fair-data/) prior to submission. In particular, data have to be made openly accessible and freely reusable via established institutions and standards, unless privacy or confidentiality concerns forbid such a publication. In any case, metadata have to be made publicly accessible and visible.
+All relevant data that were used or produced for conducting the work presented in a paper must be made [FAIR](http://www.dtls.nl/fair-data/) and compliant with the [PLOS data availability guidelines](http://journals.plos.org/plosone/s/data-availability) prior to submission. See in particular the list of [recommended data repositories](http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories). (We might provide our own data availability guidelines in the future, but we borrow the excellent PLOS guidelines for now.) In a nutshell, data have to be made openly accessible and freely reusable via established institutions and standards, unless privacy or confidentiality concerns forbid such a publication. In any case, metadata have to be made publicly accessible and visible.
 
 ##### Evaluation Criteria
 
@@ -105,7 +105,7 @@ The review should evaluate the paper with respect to the following criteria.
 
 **Data availability:**
 
-- Are all used and produced data are openly available in established data repositories (except for data where privacy concerns apply)?
+- Are all used and produced data are openly available in established data repositories, as mandated by [FAIR](http://www.dtls.nl/fair-data/) and the [data availability guidelines](http://journals.plos.org/plosone/s/data-availability)?
 
 
 ##### Summary and Comments

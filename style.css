@@ -55,7 +55,7 @@ Theme Styles
 body {
   box-sizing: border-box;
   color:#373737;
-  background: #4491c5;
+  background: #022;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   text-align: justify;
@@ -275,7 +275,7 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #4491c5;
+  background: #022;
 }
 
 #header_wrap .inner {
@@ -304,7 +304,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #4491c5;
+  background: #022;
 }
 
 

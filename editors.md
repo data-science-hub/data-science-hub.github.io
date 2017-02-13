@@ -50,4 +50,4 @@ navigation_weight: 30
 
 ### Editorial Assistant
 
-- Cristina Bucur, VU University Amsterdam
+- [Cristina Bucur](http://orcid.org/0000-0002-7114-6459), VU University Amsterdam

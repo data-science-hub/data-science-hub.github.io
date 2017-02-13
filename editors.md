@@ -48,3 +48,6 @@ navigation_weight: 30
 - [Mark Wilkinson](http://orcid.org/0000-0001-6960-357X), UPM Madrid
 - [Olivia Woolley Meza](http://orcid.org/0000-0003-4517-2765), ETH Zurich
 
+### Editorial Assistant
+
+- Cristina Bucur, VU University Amsterdam

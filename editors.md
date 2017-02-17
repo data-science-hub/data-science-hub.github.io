@@ -22,7 +22,7 @@ navigation_weight: 30
 - [Brian Davis](http://orcid.org/0000-0002-5759-2655), NUI Galway
 - Manisha Desai, Stanford University
 - [Emilio Ferrara](http://orcid.org/0000-0002-1942-2831), University of Southern California
-- [Pascale Gaudet](http://orcid.org/0000-0003-1813-6857), Swiss Institute of Bioinformatics
+- [Pascale Gaudet](http://orcid.org/0000-0003-1813-6857), SIB Swiss Institute of Bioinformatics
 - [Olivier Gevaert](http://orcid.org/0000-0002-9965-5466), Stanford University
 - [Yolanda Gil](http://orcid.org/0000-0001-8465-8341), University of Southern California
 - [Frank van Harmelen](http://orcid.org/0000-0002-7913-0048), VU University Amsterdam

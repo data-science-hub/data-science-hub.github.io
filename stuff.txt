@@ -1,0 +1,1 @@
+Finally, as a third alternative, the [Authorea](https://www.authorea.com) platform is at the moment probably the easiest way to write and export papers in HTML. We are also working on supporting direct submission to our journal from within that platform.

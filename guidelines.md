@@ -35,12 +35,10 @@ Alternatively, these guidelines for [OpenOffice](https://rawgit.com/essepuntato/
 
 As a second alternative, [dokieli](https://github.com/linkeddata/dokieli) is a client-side editor for decentralized article publishing in HTML+RDFa, annotations and social interactions, compliant with the [Linked Research](https://linkedresearch.org/) initiative. There are a variety of [examples in the wild](https://github.com/linkeddata/dokieli/wiki#examples-in-the-wild), including the [LNCS](https://dokie.li/lncs-splnproc) and [ACM](https://dokie.li/acm-sigproc-sp) author guidelines as templates.
 
-Finally, as a third alternative, the [Authorea](https://www.authorea.com) platform is at the moment probably the easiest way to write and export papers in HTML. We are also working on supporting direct submission to our journal from within that platform.
-
 
 ##### Papers in Word or LaTeX
 
-We prefer HTML, but we also accept submissions in Word or LaTeX. In that case, please use the [official templates by IOS Press](http://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/).
+We prefer HTML, but we also accept submissions in Word or LaTeX. In that case, please use the [official templates by IOS Press](https://vtex-soft.github.io/texsupport.iospress-ds/).
 
 ##### Semantic Publishing
 

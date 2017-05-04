@@ -42,7 +42,7 @@ navigation_weight: 30
 - [Steve Pettifer](http://orcid.org/0000-0002-1809-5621), Manchester
 - Evangelos Pournaras, ETH Zurich
 - [Núria Queralt Rosinach](http://orcid.org/0000-0003-0169-8159), The Scripps Research Institute
-- [Jodi Schneider](http://orcid.org/0000-0002-5098-5667), University of Pittsburgh
+- [Jodi Schneider](http://orcid.org/0000-0002-5098-5667), University of Illinois at Urbana-Champaign
 - [Ruben Verborgh](http://orcid.org/0000-0002-8596-222X), Ghent University
 - [Karin Verspoor](http://orcid.org/0000-0002-8661-1544), University of Melbourne
 - [Mark Wilkinson](http://orcid.org/0000-0001-6960-357X), UPM Madrid

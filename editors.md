@@ -6,7 +6,7 @@ navigation_weight: 30
 
 ### Editors-in-Chief
 
-- [Michel Dumontier](http://orcid.org/0000-0003-4727-9435), Stanford University
+- [Michel Dumontier](http://orcid.org/0000-0003-4727-9435), Maastricht University
 - [Tobias Kuhn](http://orcid.org/0000-0002-1267-0234), VU University Amsterdam
 
 

@@ -34,6 +34,6 @@ This journal focuses on methods, infrastructure, and applications around the fol
 
 ### Editors-in-Chief
 
-- Michel Dumontier, Stanford University
+- Michel Dumontier, Maastricht University
 - Tobias Kuhn, VU University Amsterdam
 

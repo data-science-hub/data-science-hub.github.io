@@ -1,1 +1,5 @@
 Finally, as a third alternative, the [Authorea](https://www.authorea.com) platform is at the moment probably the easiest way to write and export papers in HTML. We are also working on supporting direct submission to our journal from within that platform.
+
+##### Reports
+
+Finally, we also publish reports with the expectation of high impact. The topics of such reports can include software, platforms, APIs, datasets, standards, outreach activities, and book reviews.

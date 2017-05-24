@@ -23,7 +23,3 @@ We accept position papers presenting discussions and viewpoints around Data Scie
 
 We also publish survey papers of the state of the art of topics central to the journal's scope. Survey articles should be comprehensive and balanced, and should have the potential to become well-known introductory and overview texts.
 
-
-##### Reports
-
-Finally, we also publish reports with the expectation of high impact. The topics of such reports can include software, platforms, APIs, datasets, standards, outreach activities, and book reviews.

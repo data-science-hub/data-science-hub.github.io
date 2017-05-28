@@ -19,7 +19,6 @@ The following length limits apply for the different paper types:
 - Research papers: 12 000 words
 - Position papers: 8 000 words
 - Survey papers: 16 000 words
-- Reports: 5 000 words
 
 Note that these word counts are not targets but maximum values. Papers may be significantly shorter. Exceptions for longer papers are possible if well justified (contact the editors-in-chief before submitting papers that exceed the stated word limits).
 

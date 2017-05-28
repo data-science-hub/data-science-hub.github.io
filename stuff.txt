@@ -3,3 +3,5 @@ Finally, as a third alternative, the [Authorea](https://www.authorea.com) platfo
 ##### Reports
 
 Finally, we also publish reports with the expectation of high impact. The topics of such reports can include software, platforms, APIs, datasets, standards, outreach activities, and book reviews.
+
+- Reports: 5 000 words

@@ -1,7 +1,7 @@
 ---
-title: Editors
+title: Editorial Board
 layout: default
-navigation_weight: 30
+navigation_weight: 10
 ---
 
 ### Editors-in-Chief

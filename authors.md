@@ -4,6 +4,8 @@ layout: default
 navigation_weight: 30
 ---
 
+**We will shortly move over to [our new site and submission system](https://submissions.iospress.com/data-science/).**
+
 ### Guidelines for Authors
 
 Authors should closely follow the guidelines below before submitting a manuscript.

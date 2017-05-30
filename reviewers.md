@@ -4,6 +4,8 @@ layout: default
 navigation_weight: 40
 ---
 
+**We will shortly move over to [our new site and submission system](https://submissions.iospress.com/data-science/).**
+
 ### Guidelines for Reviewers
 
 In order to facilitate a speedy reviewing process, reviewers are requested to submit their assessment within 10 days. Reviews consist of the parts described below.

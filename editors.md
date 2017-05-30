@@ -4,6 +4,8 @@ layout: default
 navigation_weight: 10
 ---
 
+**We will shortly move over to [our new site and submission system](https://submissions.iospress.com/data-science/).**
+
 ### Editors-in-Chief
 
 - [Michel Dumontier](http://orcid.org/0000-0003-4727-9435), Maastricht University

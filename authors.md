@@ -34,6 +34,21 @@ Note that these word counts are not targets but maximum values. Papers may be si
 
 These word counts include the abstract, tables, and figure and table captions. Author lists and references, however, are not counted. Each figure counts for an additional 300 words.
 
+##### References
+
+Every item on the list of references needs to come with exactly one of these identifiers (if multiple apply, the highest on the list should be picked):
+
+- DOI
+- PubMed ID (PMID)
+- ACM Digital Library (dl.acm.org) URL
+- PubMed Central ID (PMCID)
+- JSTOR URL
+- ISBN (only when citing an entire book)
+- CEUR.org URL
+- arXiv.org / biorxiv.org URL
+- SSRN.com URL
+- any other URL representing the referenced work
+
 ##### Papers in HTML
 
 We encourage authors to submit their papers in HTML. There are various tools and templates for that, such as [RASH](https://github.com/essepuntato/rash/), [dokieli](https://dokie.li/), and [Authorea](https://www.authorea.com).

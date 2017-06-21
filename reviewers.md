@@ -4,7 +4,7 @@ layout: default
 navigation_weight: 40
 ---
 
-**We will shortly move over to [our new site and submission system](https://submissions.iospress.com/data-science/).**
+**See the [main journal site](https://datasciencehub.net/).**
 
 ### Guidelines for Reviewers
 

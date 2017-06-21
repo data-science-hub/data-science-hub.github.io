@@ -4,7 +4,7 @@ layout: default
 navigation_weight: 30
 ---
 
-**We will shortly move over to [our new site and submission system](https://submissions.iospress.com/data-science/).**
+**See the [main journal site](https://datasciencehub.net/).**
 
 ### Guidelines for Authors
 
@@ -76,5 +76,5 @@ All relevant data that were used or produced for conducting the work presented i
 
 ##### Evaluation Criteria
 
-See the [reviewing guidelines](reviewers.html) for the specific criteria according to which submitted papers are evaluated.
+See the [reviewing guidelines](https://datasciencehub.net/content/guidelines-reviewers) for the specific criteria according to which submitted papers are evaluated.
 

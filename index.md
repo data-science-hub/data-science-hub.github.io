@@ -33,6 +33,7 @@ This journal focuses on methods, infrastructure, and applications around the fol
 - scalable computing, analysis, and learning for Data Science
 - scientific web services and executable workflows
 - scientific analytics, intelligence, and real time decision making
+- process mining
 - socio-technical systems
 - social impacts of Data Science
 

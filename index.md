@@ -22,7 +22,7 @@ Data Science is an interdisciplinary journal that addresses the development that
 
 This journal focuses on methods, infrastructure, and applications around the following core topics:
 
-- scientific data mining, machine learning, and Big Data analytics
+- scientific data mining, machine learning from datasets, and Big Data analytics
 - scientific data management, network analysis, and knowledge discovery
 - scholarly communication and (semantic) publishing
 - research data publication, indexing, quality, and discovery

@@ -34,6 +34,21 @@ Note that these word counts are not targets but maximum values. Papers may be si
 
 These word counts include the abstract, tables, and figure and table captions. Author lists and references, however, are not counted. Each figure counts for an additional 300 words.
 
+##### Extended Versions
+
+We accept extended versions of works previously published at workshops or conferences under the following conditions:
+
+- The previous publication is clearly and prominently indicated and referenced
+- The additions and differences are described in the introduction
+- At least 25% of the content of the extended version are new
+- The extended version covers significant additional elements, and is not just a more verbose version of the previous content
+
+It is furthermore the authors' responsibility to ensure that the publication of the extended version complies with the requirements (including copyright) of the previous publisher.
+
+##### Author Information
+
+Submissions should contain the full names, affiliations, and ORCID identifiers for all authors, and email-addresses for the corresponding authors.
+
 ##### References
 
 Every item on the list of references needs to come with exactly one of these identifiers (if multiple apply, the highest on the list should be picked):

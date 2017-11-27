@@ -36,6 +36,7 @@ This journal focuses on methods, infrastructure, and applications around the fol
 - process mining
 - socio-technical systems
 - social impacts of Data Science
+- Legal and ethical considerations of Data Science
 
 
 ### Editors-in-Chief

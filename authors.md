@@ -74,6 +74,7 @@ Alternatively, these guidelines for [OpenOffice](https://rawgit.com/essepuntato/
 
 As a second alternative, [dokieli](https://github.com/linkeddata/dokieli) is a client-side editor for decentralized article publishing in HTML+RDFa, annotations and social interactions, compliant with the [Linked Research](https://linkedresearch.org/) initiative. There are a variety of [examples in the wild](https://github.com/linkeddata/dokieli/wiki#examples-in-the-wild), including the [LNCS](https://dokie.li/lncs-splnproc) and [ACM](https://dokie.li/acm-sigproc-sp) author guidelines as templates.
 
+We also accept [Jupyter Notebooks](https://jupyter.org/) and other HTML-based interactive formats.
 
 ##### Papers in Word or LaTeX
 

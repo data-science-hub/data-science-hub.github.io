@@ -78,7 +78,7 @@ We also accept [Jupyter Notebooks](https://jupyter.org/) and other HTML-based in
 
 ##### Papers in Word or LaTeX
 
-We prefer HTML, but we also accept submissions in Word or LaTeX. In that case, please use the official templates by IOS Press found [here (LaTeX only)](https://vtex-soft.github.io/texsupport.iospress-ds/) and [here (Word and LaTeX](https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/).
+We prefer HTML, but we also accept submissions in Word or LaTeX. In that case, please use the official templates by IOS Press found [here (LaTeX only)](https://vtex-soft.github.io/texsupport.iospress-ds/) and [here (Word and LaTeX)](https://www.iospress.nl/service/authors/latex-and-word-tools-for-book-authors/).
 
 ##### Semantic Publishing
 

@@ -20,7 +20,7 @@ navigation_weight: 10
 - [Alison Callahan](http://orcid.org/0000-0001-5163-380X), Stanford University
 - Thomas Chadefaux, Trinity College Dublin
 - [Christine Chichester](http://orcid.org/0000-0001-6818-334X), Nestle Institute of Health Sciences
-- Tim Clark, Harvard
+- Tim Clark, University of Virginia
 - [Oscar Corcho](http://orcid.org/0000-0002-9260-0753), Universidad Politécnica de Madrid
 - [Brian Davis](http://orcid.org/0000-0002-5759-2655), NUI Galway
 - Manisha Desai, Stanford University

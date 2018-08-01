@@ -76,4 +76,4 @@ We encourage authors to submit their papers in HTML (but we accept Word and LaTe
 
 ##### ORCID
 
-To address name ambiguity problems, we ask all authors, co-authors, editorial board members, and reviewers to identify themselves with their [ORCID](http://orcid.org/) identifier.
+To address name ambiguity problems, we ask all authors, co-authors, editorial board members, and reviewers to identify themselves with [ORCID](http://orcid.org/) identifiers.

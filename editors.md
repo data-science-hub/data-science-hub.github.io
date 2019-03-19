@@ -18,9 +18,9 @@ navigation_weight: 10
 - [Victor de Boer](http://orcid.org/0000-0001-9079-039X), VU University Amsterdam
 - [Philip E. Bourne](https://orcid.org/0000-0002-7618-7292), University of Virginia
 - [Alison Callahan](http://orcid.org/0000-0001-5163-380X), Stanford University
-- Thomas Chadefaux, Trinity College Dublin
+- [Thomas Chadefaux](http://orcid.org/0000-0002-8456-8124), Trinity College Dublin
 - [Christine Chichester](http://orcid.org/0000-0001-6818-334X), Nestle Institute of Health Sciences
-- Tim Clark, Harvard
+- Tim Clark, University of Virginia
 - [Oscar Corcho](http://orcid.org/0000-0002-9260-0753), Universidad Politécnica de Madrid
 - [Brian Davis](http://orcid.org/0000-0002-5759-2655), NUI Galway
 - Manisha Desai, Stanford University

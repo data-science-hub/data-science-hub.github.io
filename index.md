@@ -48,7 +48,7 @@ This journal focuses on methods, infrastructure, and applications around the fol
 
 ##### Open Access
 
-The journal is open access. The article processing charges are waived for the first year. The exact amount of the charges after the first year is to be determined, but they will be moderate in comparison to other similar journals.
+The journal is open access. The article processing charges are waived during the current starting phase of the journal for papers submitted until 31 August 2019 (this deadline might be extended). The exact amount of the charges after that is to be determined, but they will be moderate in comparison to other similar journals.
 
 ##### Speedy Reviewing
 

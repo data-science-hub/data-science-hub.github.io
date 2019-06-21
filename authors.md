@@ -21,6 +21,7 @@ We will be open for submissions of the following types:
 - **Research Papers:** We accept as main category research papers that report on original research. Results previously published at conferences or workshops may be submitted as extended versions.
 - **Position Papers:** We accept position papers presenting discussions and viewpoints around Data Science topics. These papers do not need an evaluation, but need to present relevant and novel discussion points in a thorough manner.
 - **Survey Papers:** We also publish survey papers of the state of the art of topics central to the journal's scope. Survey articles should be comprehensive and balanced, and should have the potential to become well-known introductory and overview texts.
+- **Resource Papers:** Resource papers introduce and describe a resource of value for further research, including but not limited to datasets, benchmarks, software tools/frameworks/services, methodologies, and protocols.
 
 ##### Paper Length
 
@@ -29,6 +30,7 @@ The following length limits apply for the different paper types:
 - Research papers: 12 000 words
 - Position papers: 8 000 words
 - Survey papers: 16 000 words
+- Resource papers: 12 000 words
 
 Note that these word counts are not targets but maximum values. Papers may be significantly shorter. Exceptions for longer papers are possible if well justified (contact the editors-in-chief before submitting papers that exceed the stated word limits).
 

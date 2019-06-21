@@ -37,12 +37,14 @@ The review should evaluate the paper with respect to the following criteria.
 - _For research papers:_ Does the work provide new insights or new methods of a substantial kind?
 - _For position papers:_ Does the work provide a novel and potentially disruptive view on the given topic?
 - _For survey papers:_ Does the work provide an overview that is unique in its scope or structure for the given topic?
+- _For resource papers:_ Does the presented resource have significant unique features that can enable novel scientific work?
 
 **Technical quality:**
 
 - _For research papers:_ Are the methods adequate for the addressed problem, are they correctly and thoroughly applied, and are their results interpreted in a sound manner?
 - _For position papers:_ Is the advocated position supported by sound and thorough arguments?
 - _For survey papers:_ Is the topic covered in a comprehensive and well balanced manner, are the covered approaches accurately described and compared, and are they placed in a convincing common framework?
+- _For resource papers:_ Is the presented resource carefully designed and implemented following the relevant best practices, and does it provide sound evidence of its (potential for) reuse?
 
 **Presentation:**
 

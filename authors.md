@@ -23,6 +23,10 @@ We will be open for submissions of the following types:
 - **Survey Papers:** We also publish survey papers of the state of the art of topics central to the journal's scope. Survey articles should be comprehensive and balanced, and should have the potential to become well-known introductory and overview texts.
 - **Resource Papers:** Resource papers introduce and describe a resource of value for further research, including but not limited to datasets, benchmarks, software tools/frameworks/services, methodologies, and protocols.
 
+##### Preprint
+
+By submitting your manuscript you agree that it will be made available on this journal website as a preprint, and it will remain available after acceptance or rejection together with the reviews. Removal of a manuscript during or after review is not possible.
+
 ##### Paper Length
 
 The following length limits apply for the different paper types:

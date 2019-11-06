@@ -14,7 +14,6 @@ navigation_weight: 10
 
 ### Editorial Board
 
-- [Tijl de Bie](http://orcid.org/0000-0002-2692-7504), Ghent University
 - [Victor de Boer](http://orcid.org/0000-0001-9079-039X), VU University Amsterdam
 - [Philip E. Bourne](https://orcid.org/0000-0002-7618-7292), University of Virginia
 - [Alison Callahan](http://orcid.org/0000-0001-5163-380X), Stanford University

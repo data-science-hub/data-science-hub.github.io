@@ -33,7 +33,7 @@ navigation_weight: 10
 - [Lawrence Hunter](http://orcid.org/0000-0003-1455-3370), University of Colorado Denver
 - [Toshiaki Katayama](http://orcid.org/0000-0003-2391-0384), Database Center for Life Science
 - Michael Krauthammer, Yale University
-- Thomas Maillart, UC Berkeley
+- Thomas Maillart, University of Geneva
 - [Richard Mann](http://orcid.org/0000-0003-0701-1274), Leeds University
 - [Michael Mäs](http://orcid.org/0000-0001-9416-3211), University of Groningen
 - [James McCusker](http://orcid.org/0000-0003-1085-6059), RPI
